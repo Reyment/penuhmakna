@@ -9,7 +9,7 @@ export default function Home() {
           theme === "light" ? `bg-[#FFFBFF]` : `bg-[#201A18]`
         }`}
       >
-        <main className=" w-[90vw] sm:w-[80vw]">
+        <main className="w-[90vw] ">
           {/* Coba theme boleh dihapus */}
           <Button variant="primary" theme={theme}>
             primary
