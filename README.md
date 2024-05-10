@@ -41,19 +41,11 @@ Experience our coffee landing page using Next.js, a powerful React framework for
    # or
    yarn install
 
-
-   
-
-npm install
-# or
-yarn install
-
 3. Run Development Server: Start the Next.js development server to preview the landing page locally:
    ```bash
    npm install
 
 3. Open in Browser: Open the app in your browser at http://localhost:3000.
-
 
 
 
