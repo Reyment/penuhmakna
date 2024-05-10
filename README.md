@@ -35,7 +35,15 @@ Experience our coffee landing page using Next.js, a powerful React framework for
    git clone https://github.com/username/project-name.git
 
 2. Install Dependencies: Navigate to the project directory and install dependencies using npm or yarn:
-cd project-name
+   ```bash
+   cd project-name
+   npm install
+   # or
+   yarn install
+
+
+   
+
 npm install
 # or
 yarn install
