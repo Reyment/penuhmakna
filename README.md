@@ -1,5 +1,5 @@
 
-# Welcome to Our Coffee Landing Page!
+# Coffee Landing Page
 
 Welcome to our delightful coffee landing page, where we invite you to savor the aroma and experience the richness of our coffee products.
 
