@@ -17,7 +17,7 @@ Our coffee landing page is crafted to immerse visitors in the world of coffee, s
 
 ## Screenshots
 
-![Screenshot 1](/src/images/homepage.png)
+![Screenshot 1](/public/images/homePage.png)
 *Screenshot 1: A glimpse of our captivating coffee landing page.*
 
 ## Technologies Used
