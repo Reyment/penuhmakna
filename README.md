@@ -34,13 +34,19 @@ Experience our coffee landing page using Next.js, a powerful React framework for
    ```bash
    git clone https://github.com/username/project-name.git
 
-Install Dependencies: Navigate to the project directory and install dependencies using npm or yarn:
+2. Install Dependencies: Navigate to the project directory and install dependencies using npm or yarn:
+cd project-name
+npm install
+# or
+yarn install
 
-   
-3. Navigate to the project directory:
-	cd your-landing-page
+3. Run Development Server: Start the Next.js development server to preview the landing page locally:
+   ```bash
+   npm install
 
-3. Open `index.html` in your web browser.
+3. Open in Browser: Open the app in your browser at http://localhost:3000.
+
+
 
 
 ## Contributing
