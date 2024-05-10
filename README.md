@@ -43,7 +43,7 @@ Experience our coffee landing page using Next.js, a powerful React framework for
 
 3. Run Development Server: Start the Next.js development server to preview the landing page locally:
    ```bash
-   npm install
+   npm run dev
 
 3. Open in Browser: Open the app in your browser at http://localhost:3000.
 
@@ -60,4 +60,4 @@ I'd love to hear your feedback! If you have any questions, suggestions, or conce
 
 ---
 
-[View Live Demo](https://example-convert-figma-html-5.vercel.app/)
+[View Live Demo](https://penuh-makna.vercel.app/)
